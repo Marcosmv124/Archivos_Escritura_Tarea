@@ -1,0 +1,7 @@
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\bin\Debug\Archivos_EscrituraTarea.exe.config
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\bin\Debug\Archivos_EscrituraTarea.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\bin\Debug\Archivos_EscrituraTarea.pdb
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\obj\Debug\Archivos_EscrituraTarea.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\obj\Debug\Archivos_EscrituraTarea.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\obj\Debug\Archivos_EscrituraTarea.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\Archivos_Escritura_Tarea\Archivos_EscrituraTarea\obj\Debug\Archivos_EscrituraTarea.pdb
