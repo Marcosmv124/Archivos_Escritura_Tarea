@@ -11,7 +11,7 @@ namespace Archivos_EscrituraTarea
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("ejemplo.txt");// Cambios
+            StreamWriter sw = new StreamWriter("ejemplo.txt",true);// Cambios
             // Si el archivo no existe lo creara
             // Si el archivo existe, escribira en el
 
